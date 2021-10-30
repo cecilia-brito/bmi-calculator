@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding: 0;
+    border:none;
+    text-decoration: none;
+    box-sizing: border-box;
+    }    
+
+body {
+    color: black;
+    background-color: blue;
+    background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="36" height="72" viewBox="0 0 36 72"%3E%3Cg fill-rule="evenodd"%3E%3Cg fill="%" fill-opacity="0.4"%3E%3Cpath d="M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E'); 
+    justify-content: center;
+    }
+    
+    .title {
+    font-family: "Sigmar One", cursive;
+    font-size: 9rem;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    }
+    .container {
+    width: 80rem;
+    /* definimos a altura do box */
+    height: 38rem;
+    /* definimos a cor de fundo do box */
+    background-color: white;
+    /* definimos o quão arredondado irá ficar nosso box */
+    border-radius: 1.5rem;
+    margin: auto;
+    border: 0.5rem solid #000;
+    padding: 0.5rem;
+    justify-content: center;
+    }
+    .box {
+    width: 100vw;
+    height: auto;
+    background-color: #002696;
+    justify-content: center;
+    text-align: center;
+    }
+    .textSubtitle {
+    color: white;
+    margin-top: 10rem;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    font-size: 2.6rem;
+    }
+    .input {
+    color: black;
+    margin: 3.5rem;
+    margin-top: 3.2rem;
+    margin-bottom: 2rem;
+    }
+    .center{
+    text-align:center;
+    }
+    .button {
+    margin: auto;
+    font-size: 2.6rem;
+    cursor: pointer;
+    padding: 1rem;
+    background-color: #002696;
+    color: white;
+    border: .2rem solid black;
+    font-family:"Sigmar One", cursive;
+    margin-bottom: 0px;
+    margin-top:2.2rem;
+    width: 100%;
+    }
+    .boxSubTitle{
+    width: 80rem;
+    height:auto;
+    background-color:#002696;
+    margin:auto;
+    margin-top: 2rem;
+    }
+    
+    .message{
+    font-family: 'Song Myung', serif;
+    color: black;
+    font-weight: bold;
+    font-size: 1.6rem;
+    }
+    
+    /* .loading{
+    animation: is-rotating 1s infinite;
+    border: 6px solid #e5e5e5;
+    border-radius: 50%;
+    border-top-color: #51d4db;
+    height: 50px;
+    width: 50px;
+    } */
+    
+    .creditosAvisos{
+    width: 100%;
+    height: auto ;
+    background-color: #002696;
+    color: white;
+    text-align:center;
+    margin-top: 8rem;
+    }
+
+    
+    
