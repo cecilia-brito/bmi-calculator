@@ -87,7 +87,15 @@ body {
     font-size: 1.6rem;
     margin-top: 1rem;
     }
-    
+
+    .message-alert{
+        color: rgba(150,0,0);
+        font-family: 'Song Myung', serif;
+        font-weight: bold;
+        font-size: 1.6rem;
+        margin-top: 1rem;
+    }
+
     .creditosAvisos{
     width: 100%;
     height: auto ;
@@ -107,5 +115,6 @@ body {
         color:gray;
     }
 
+    
     
     

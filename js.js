@@ -6,6 +6,7 @@ function calcularIMC(){
   let altura= document.getElementById("altura").value/100;
   
   let resultado = document.getElementById("resultado");
+
   
   if(altura!== "" && peso !==""){
     let IMC = (peso/(altura*altura)).toFixed(2);
