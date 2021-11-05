@@ -1,64 +1,69 @@
 <html lang="pt">
 
-<head>
-    <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
-    <link
-        href="[https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap](https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap)"
-        rel="stylesheet">
-    <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
-    <link
-        href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap)"
-        rel="stylesheet">
-    <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
-    <link
-        href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap)"
-        rel="stylesheet">
-    <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
-    <link
-        href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Kalam:wght@300;700&family=Song+Myung&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Kalam:wght@300;700&family=Song+Myung&display=swap)"
-        rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <head>
+        <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
+        <link
+            href="[https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap](https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap)"
+            rel="stylesheet">
+        <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
+        <link
+            href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap)"
+            rel="stylesheet">
+        <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
+        <link
+            href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap)"
+            rel="stylesheet">
+        <link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com/)">
+        <link
+            href="[https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Kalam:wght@300;700&family=Song+Myung&display=swap](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Kalam:wght@300;700&family=Song+Myung&display=swap)"
+            rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!-- View Port -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- View Port -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- estilos css -->
-    <link rel="stylesheet" href="styles/css.css">
-    <script src="/js.js" defer type="module"></script>
+        <!-- estilos css -->
+        <link rel="stylesheet" href="styles/reset.css">
+        <link rel="stylesheet" href="styles/css.css">
+        <script src="/js.js" defer type="module"></script>
+    </head>
 
-</head>
-
-<body>
-    <div class="box">
-        <h1 class="title">Calculadora De IMC</h1>
-    </div>
-    <div class="container">
-        <form>
-            <p class="textSubtitle boxSubTitle"> Digite seu peso </p>
-            <div class="input">
-                <input id="peso" type="number" />
-                <span>kg</span>
+    <body>
+        <header>
+            <div class="box">
+                <h1 class="title">Calculadora De IMC</h1>
             </div>
-            <div>
-                <p class="textSubtitle boxSubTitle"> Digite sua altura
-                <p>
+        </header>
+        <main>
+            <div class="container">
+                <form>
+                    <p class="textSubtitle boxSubTitle"> Digite seu peso </p>
+                    <div class="input">
+                        <input id="peso" type="number" />
+                        <span>kg</span>
+                    </div>
+                    <div>
+                        <p class="textSubtitle boxSubTitle"> Digite sua altura
+                        <p>
+                    </div>
+                    <div class="input">
+                        <input id="altura" type="number" />
+                        <span>cm</span>
+                    </div>
+                    <div class="center">
+                        <input id="botaoCalcular" class="button" type="button" value="Calcular" />
+                    </div>
+                    <div class="message" id="resultado"></div>
+                </form>
             </div>
-            <div class="input">
-                <input id="altura" type="number" />
-                <span>cm</span>
+        </main>
+        <footer>
+            <div class="creditosAvisos">
+                <p> <a href="https://github.com/cecilia-brito/imc-calculator">Feito por Cecília Brito</a> | ⚠ Não use essas informações para autodiagnóstico, procure profissionais
+                    habilitados!</p>
             </div>
-            <div class="center">
-                <input id="botaoCalcular" class="button" type="button" value="Calcular" />
-            </div>
-            <div class="message" id="resultado"></div>
-        </form>
-    </div>
-    <div class="creditosAvisos">
-        <p> <a href="https://github.com/cecilia-brito/imc-calculator">Feito por Cecília Brito</a> | ⚠ Não use essas informações para autodiagnóstico, procure profissionais
-            habilitados!</p>
-    </div>
-</body>
-
+        </footer>
+    </body>
 </html>
