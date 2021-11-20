@@ -9,7 +9,7 @@
 ## → Status
 
 <p>Concluído✅</p>
-<p> Veja <a href='https://github.com/cecilia-brito/bmi-calculator'>aqui</a>
+<p> Veja <a href='https://cecilia-brito.github.io/bmi-calculator/'>aqui</a>
 
 ## → Tecnologias Utilizadas
 
