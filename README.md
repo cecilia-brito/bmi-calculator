@@ -1,4 +1,4 @@
-# imc-calculator
+# bmi-calculator
 
 ## → Descrição do Projeto
 
@@ -6,10 +6,13 @@
 
 <p>Este projeto foi realizado em um curso da instituição Kenzie Academy. As principais alterações foram feitas no CSS</p>
 
-## → Status
+## Status
 
 <p>Concluído✅</p>
-<p> Veja <a href='https://cecilia-brito.github.io/bmi-calculator/'>aqui</a>
+
+## Resultado
+
+<p>Veja <a href='https://cecilia-brito.github.io/bmi-calculator/'>aqui</a>
 
 ## → Tecnologias Utilizadas
 
