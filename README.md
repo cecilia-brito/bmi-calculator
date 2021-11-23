@@ -1,5 +1,8 @@
 # bmi-calculator
-
+![Issues](https://img.shields.io/github/issues/cecilia-brito/imc-calculator)
+![Forks](https://img.shields.io/github/forks/cecilia-brito/imc-calculator)
+![Stars](https://img.shields.io/github/stars/cecilia-brito/imc-calculator)
+![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcecilia-brito%2Fimc-calculator)
 ## Descrição do Projeto
 
 <p>Uma calculadora que deve pegar o peso da em kg e a sua altura em centímetros, depois irá mostrar uma mensagem com o IMC da pessoa e em qual faixa a pessoa se encontra.</p>
@@ -21,8 +24,3 @@
 ## Autora
 
 <p><a href="https://www.linkedin.com/in/cec%C3%ADlia-brito-santos-a22193170/">Feito por Cecília Brito</a></p>
-
-![Issues](https://img.shields.io/github/issues/cecilia-brito/imc-calculator)
-![Forks](https://img.shields.io/github/forks/cecilia-brito/imc-calculator)
-![Stars](https://img.shields.io/github/stars/cecilia-brito/imc-calculator)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcecilia-brito%2Fimc-calculator)
