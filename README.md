@@ -1,6 +1,6 @@
 # bmi-calculator
 
-## → Descrição do Projeto
+## Descrição do Projeto
 
 <p>Uma calculadora que deve pegar o peso da em kg e a sua altura em centímetros, depois irá mostrar uma mensagem com o IMC da pessoa e em qual faixa a pessoa se encontra.</p>
 
@@ -14,11 +14,11 @@
 
 <p>Veja <a href='https://cecilia-brito.github.io/bmi-calculator/'>aqui</a>
 
-## → Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 <a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt='logo do HTML em laranja' width ='60' height='60'/></a><a href='https://developer.mozilla.org/pt-BR/docs/Web/CSS'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt='logo do CSS em azul'  width ='60' height='60'/></a><a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='logo do JavaScript em amarelo'  width ='60' height='60' /></a>
 
-## → Autora
+## Autora
 
 <p><a href="https://www.linkedin.com/in/cec%C3%ADlia-brito-santos-a22193170/">Feito por Cecília Brito</a></p>
 
